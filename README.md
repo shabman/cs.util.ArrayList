@@ -47,7 +47,7 @@ namespace Demo
 
 Once space has ran out from the main buffer, a new array is initalised and has twice the capacity.
 All old contents are moved and placed into the backup buffer.
-If the backup array runs out of space too, the main buffer is re-initialised with twice the capacity of the backup buffer.
+If the backup buffer runs out of space too, the main buffer is re-initialised with twice the capacity of the backup buffer and its contents are moved, again.
 This process repeats itself.
 
 I think its a bad implementation but whatever, use it if you wanna.
