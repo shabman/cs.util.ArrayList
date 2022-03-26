@@ -1,6 +1,7 @@
 # cs.util.ArrayList
 A bad implementation (ripoff) of java.util.ArrayList
 
+**NOTE: This project is maintained and more features will be added ASAP!**
 
 # How to use
 
