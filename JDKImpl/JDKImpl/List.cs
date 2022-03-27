@@ -65,7 +65,7 @@
             {
                 if (element == (object) args)
                 {
-                    buffer[index] = default;
+                    buffer[inc] = default;
                     break;
                 }
                 inc++;
