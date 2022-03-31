@@ -56,4 +56,4 @@ I think its a bad implementation but whatever, use it if you wanna.
 Make a PR for feature requests or improvements
 Make a new issue for bugs or problems.
 
-Created by shabman (Discord: shab#1753)
+Created by shabman
